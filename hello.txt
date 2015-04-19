@@ -1,0 +1,13 @@
+งานที่ต้องทำ
+(ส่งหลังสงกรานต์)
+1. proposal 
+    - background
+    - Intro 
+2. URS
+3. SRS
+4. Use case diagram
+5. Use case description
+6. Sequence diagram
+7. Class diagram
+8. User Interface
+9. Traceability metric
